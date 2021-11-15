@@ -54,7 +54,7 @@ If, for example, mod = -0.5 and randomness = -8, the parameter can be multiplied
 So, trying for precision with this program is a lost cause. Good luck ;)
 
 ==Coming Soon???==
-I'll probably update this program and work out some kinks in like a week or 2 years. In the meanwhile, feel free to make the algorithm better and add some new features and failsafes and other puppydog updates.
+I'll probably update this program and work out some kinks in like a week or 2 years. In the meanwhile, feel free to make it good.
 
 ==Copyright==
 I don't care about this, just don't claim that you made this program.

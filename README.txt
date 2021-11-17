@@ -3,18 +3,18 @@ This program is safe with very big and small parameter numbers, which python rea
 
 CREATE BACKUPS (of the data folder) PLEEEEASE
 
-Oh, and also [GAME] could be impossible to 100%, any%, play past a certain point, or play at all if this program sinks its teeth into its parameter files
+Oh, and also any modified Pikmin 2 ISOs could be impossible to 100%, any%, play past a certain point, or play at all if this program sinks its teeth into its parameter files
 
 ==Author==
 Mousejuggler (Mr. 2 Bon Kurei Comma#9007)
 
 ==Helpful Links==
-https://pikmintkb.com/wiki/Pikmin_2_identifiers (This is not to imply that this program works on any files from console games)
+https://pikmintkb.com/wiki/Pikmin_2_identifiers
 
 ==Setup==
-Step 1. Extract the "enemyParms.szs" file from the "enemy" folder of a "root" folder extracted from a legally acquired .iso file of [GAME]. This should give you a folder named "data".
+Step 1. Extract the "enemyParms.szs" file from the "enemy" folder of a "root" folder extracted from a legally acquired .iso file of Pikmin 2. This should give you a folder named "data".
 
-Step 2. Place that folder into the same folder as this program. The folder must be named "data" and should have all of the parameter txt files of every enemy in [GAME].
+Step 2. Place that folder into the same folder as this program. The folder must be named "data" and should have all of the parameter txt files of every enemy in the game.
 
 Step 3. Run the program. Follow the steps.
 
@@ -57,7 +57,7 @@ So, trying for precision with this program is a lost cause. Good luck ;)
 Allow a randomized game to have the same save file as an unrandomized game. If you get stuck, switch to the unrandomized game and play until the next save point. Then, switch to the softlocked randomized game and hope for the best. Better still, have multiple randomized games that you switch between when you are locked from doing something.
 
 ==Coming Soon???==
-I'll probably update this program and work out some kinks in like a week or 2 years. In the meanwhile, feel free to make it good.
+I'll probably update this program and work out some kinks in like a week or 2 years.
 
 ==Copyright==
 I don't care about this, just don't claim that you made this program.
